@@ -1,0 +1,1 @@
+alert("Hello Javascript!!") //Shows alert in browser window
