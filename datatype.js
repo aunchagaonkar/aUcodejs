@@ -76,6 +76,7 @@ number = undefined; // explicit declaration as undefined variable
 // The object type is special.
 // All other types are called “primitive” because their values can contain only a single thing 
 // (be it a string or a number or whatever). In contrast, objects are used to store collections of data and more complex entities.
+// The symbol type is used to create unique identifiers for objects.
 
 // typeof operator
 // Returns the type of operand 
@@ -84,11 +85,6 @@ typeof 10n; // "bigint"
 typeof true; // "boolean"
 typeof "foo"; // "string"
 typeof(number) // similar syntax but works same as typeof number
-
-
-
-
-
 
 
 /*
