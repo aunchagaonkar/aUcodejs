@@ -1,1 +1,1 @@
-alert("Hello Javascript!!") //Shows alert in browser window
+alert("Hello Javascript!!") //Shows alert in browser window. Will be explained futher.
